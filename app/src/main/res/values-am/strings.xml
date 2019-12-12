@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage</string>
+
+    <string name="welcome"> እንካን በሰላም መጡ</string>
+    <string name="email">   ኢሜል     </string>
+    <string name="password">የሚስጥር ቁጥር  </string>
+    <string name="sign_in"> ግባ</string>
+    <string name="change_lang"> ቀንቀ ቀይር </string>
+
+</resources>

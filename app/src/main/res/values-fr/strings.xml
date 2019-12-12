@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage</string>
+
+    <string name="welcome"> bonjoure</string>
+    <string name="email">   de email    </string>
+    <string name="password">mot de passe  </string>
+    <string name="sign_in"> Sidentifer</string>
+    <string name="change_lang"> Change de Langu </string>
+</resources>
